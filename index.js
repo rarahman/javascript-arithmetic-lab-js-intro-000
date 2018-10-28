@@ -25,7 +25,7 @@ function inc(n) {
 
 //Function takes user input and decrements it by 1.
 function inc(n) {
-  n -= 1;
+  n--;
   return n
 }
 
