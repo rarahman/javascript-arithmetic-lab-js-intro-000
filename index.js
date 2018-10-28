@@ -13,7 +13,7 @@ function multiply(a, b) {
   return a * b
 }
 
-//Function returns the product of two numbers.
+//Function returns the quotient of two numbers.
 function divide(a, b) {
   return a / b
 }
