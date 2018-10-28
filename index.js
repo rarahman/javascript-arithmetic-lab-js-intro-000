@@ -18,3 +18,8 @@ function divide(a, b) {
   return a / b
 }
 
+//Function takes user input and increments it by 1.
+function inc(n) {
+  return n += 1;
+}
+
