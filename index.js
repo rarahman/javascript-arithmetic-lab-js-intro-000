@@ -23,3 +23,8 @@ function inc(n) {
   return n += 1;
 }
 
+//Function takes user input and decrements it by 1.
+function inc(n) {
+  return n -= 1;
+}
+
